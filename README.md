@@ -48,7 +48,7 @@ All credit for the original research and documentation goes to **Ralf Brown**.
 
 ## License
 
-See [NOTICE](./NOTICE) for copyright and redistribution terms.
+See [NOTICE](./NOTICE.txt) for copyright and redistribution terms.
 
 The Python source code in this repository is released under the **MIT License**.  
 The compiled PDF and its contents are derived from RBIL and are subject to Ralf Brown's original copyright — see NOTICE for details.

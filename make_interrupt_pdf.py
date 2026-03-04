@@ -18,7 +18,7 @@ try:
 except:
     MAIN_FONT = 'Helvetica'
 
-OUTPUT_PATH = "/mnt/user-data/outputs/ralf_brown_interrupt_list.pdf"
+OUTPUT_PATH = "ralf_brown_interrupt_list.pdf"
 
 # ── Data ──────────────────────────────────────────────────────────────────────
 # Each entry: (INT hex, Function, Description)
